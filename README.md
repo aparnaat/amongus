@@ -1,4 +1,4 @@
-# amongus
+# AmongUs
 Among Us themed virtual box
 
 "AmongUs" is an interactive cybersecurity project that transforms the traditional penetration testing experience into an engaging Among Us-themed adventure. Built on the Ubuntu operating system, the project places participants in the shoes of the imposter, tasked with navigating a virtual box filled with security challenges and hidden flags. The environment is crafted to mimic the iconic tasks from the popular game "Among Us," creating an immersive and entertaining cybersecurity challenge.
